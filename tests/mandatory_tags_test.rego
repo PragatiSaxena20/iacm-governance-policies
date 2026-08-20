@@ -52,4 +52,3 @@ test_all_required_tags_are_allowed {
 
 	count(governance.deny) == 0 with input as input
 }
-Jot something down
